@@ -1,0 +1,11 @@
+{
+    "require": {},
+    "autoload": {
+        "files": [
+            "config.php",
+            "modules/isValid.php",
+            "modules/remember.php",
+            "modules/fileFunctions.php"
+        ]
+    }
+}
