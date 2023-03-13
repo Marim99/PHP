@@ -3,7 +3,7 @@
 use Aws\s3\S3Client;
 use Aws\s3\Exception\S3Exception;
 
-class File
+class S3_File
 {
     private $_msg;
     private $_s3;
