@@ -6,6 +6,7 @@
 class File 
 
 | Method |  action |
+| --- | --- |
 | is_valid_file | check if the file is the image and less than 3 MB |
 | set_connection | set connection with s3  |
 | upload_file | upload file to s3 |
